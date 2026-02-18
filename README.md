@@ -3,7 +3,7 @@ Ai_based repo still selecting the problem
 # team members
 -marc hany 22100540
 -farah mohamed 22101433
--maryam gomaa
+-maryam gomaa 22100578
 -tasneem ibrahim 22101382
 -veronica waseem 23102401
 # description
