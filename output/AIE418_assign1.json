@@ -1,0 +1,230 @@
+[
+    {
+        "type": "UncategorizedText",
+        "element_id": "649e57cdc3d17284917f6273db1c4e58",
+        "text": "AIE-418 Marc Hany 22100540",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        72.024,
+                        94.35127999999997
+                    ],
+                    [
+                        72.024,
+                        114.39128000000005
+                    ],
+                    [
+                        319.29772,
+                        114.39128000000005
+                    ],
+                    [
+                        319.29772,
+                        94.35127999999997
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "data",
+            "filename": "AIE418_assign1.pdf",
+            "last_modified": "2026-02-19T15:32:59",
+            "page_number": 1,
+            "languages": [
+                "eng"
+            ],
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "dc1c936e19fdb4458ad430f1709734e9",
+        "text": "core gan concept it's basically two neural networks fighting . the generator acts like a counterfeiter trying to create fake data, and the discriminator acts like a cop trying to tell the difference between the fake data and the real data . they train against each other until the fakes look real.",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        72.024,
+                        149.92399999999998
+                    ],
+                    [
+                        72.024,
+                        212.80399999999997
+                    ],
+                    [
+                        524.5079999999999,
+                        212.80399999999997
+                    ],
+                    [
+                        524.5079999999999,
+                        149.92399999999998
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "data",
+            "filename": "AIE418_assign1.pdf",
+            "last_modified": "2026-02-19T15:32:59",
+            "page_number": 1,
+            "languages": [
+                "eng"
+            ],
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "7c95a6fe69710762eb4b3d22a430cbcb",
+        "text": "main gan variants the paper highlights a few major upgrades. cgan (conditional gan) lets you control what kind of image gets generated. dcgan uses convolutional layers instead of basic linear ones to make better images. wgan changes the math to fix the vanishing gradient problem.",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        72.024,
+                        225.764
+                    ],
+                    [
+                        72.024,
+                        288.794
+                    ],
+                    [
+                        507.06800000000004,
+                        288.794
+                    ],
+                    [
+                        507.06800000000004,
+                        225.764
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "data",
+            "filename": "AIE418_assign1.pdf",
+            "last_modified": "2026-02-19T15:32:59",
+            "page_number": 1,
+            "languages": [
+                "eng"
+            ],
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "32ec462d31397871f5e597dc17ade1ca",
+        "text": "training challenges the biggest headaches are instability (where the learning process just wildly swings around instead of improving) and mode collapse (where the generator gets lazy and just outputs the exact same image forever because it found one trick that works).",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        72.024,
+                        301.754
+                    ],
+                    [
+                        72.024,
+                        364.63399999999996
+                    ],
+                    [
+                        523.4040000000001,
+                        364.63399999999996
+                    ],
+                    [
+                        523.4040000000001,
+                        301.754
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "data",
+            "filename": "AIE418_assign1.pdf",
+            "last_modified": "2026-02-19T15:32:59",
+            "page_number": 1,
+            "languages": [
+                "eng"
+            ],
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "092cecdd7799940a48e3e5651fe140f1",
+        "text": "the nash equilibrium when the generator perfectly mimics the real data distribution, the discriminator literally can't tell the difference anymore . its predicted probability just becomes a coin flip, sitting exactly at 50% for every image.",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        72.024,
+                        377.594
+                    ],
+                    [
+                        72.024,
+                        423.554
+                    ],
+                    [
+                        523.8120000000001,
+                        423.554
+                    ],
+                    [
+                        523.8120000000001,
+                        377.594
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "data",
+            "filename": "AIE418_assign1.pdf",
+            "last_modified": "2026-02-19T15:32:59",
+            "page_number": 1,
+            "languages": [
+                "eng"
+            ],
+            "filetype": "application/pdf"
+        }
+    },
+    {
+        "type": "NarrativeText",
+        "element_id": "6aaf4a808085379ce441adcff6c21adc",
+        "text": "why it's difficult to reach hitting that perfect balance is nearly impossible in practice . usually, one network learns faster than the other, causing gradients to vanish, or the generator falls into mode collapse way before they ever reach a perfect stalemate.",
+        "metadata": {
+            "coordinates": {
+                "points": [
+                    [
+                        72.024,
+                        436.534
+                    ],
+                    [
+                        72.024,
+                        482.37399999999997
+                    ],
+                    [
+                        516.4580000000001,
+                        482.37399999999997
+                    ],
+                    [
+                        516.4580000000001,
+                        436.534
+                    ]
+                ],
+                "system": "PixelSpace",
+                "layout_width": 595.32,
+                "layout_height": 841.92
+            },
+            "file_directory": "data",
+            "filename": "AIE418_assign1.pdf",
+            "last_modified": "2026-02-19T15:32:59",
+            "page_number": 1,
+            "languages": [
+                "eng"
+            ],
+            "filetype": "application/pdf"
+        }
+    }
+]

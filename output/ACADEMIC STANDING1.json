@@ -1,0 +1,37 @@
+[
+    {
+        "type": "Table",
+        "element_id": "e0fea27ea64a64784afb6d994dbdaf4c",
+        "text": "course code course credit course grade course score CGPA cse13 2 A 8 cse14 3 B+ 9.9 geo 217 2 C 4 lan114 2 C 4 mat111 3 B 9 phy211 3 A- 11.1 CSE15 3 D 3 CSE315 3 B 9 LAN112 2 B 6 LIB116 2 B 6 MAT112 3 D+ 3.9 MAT131 3 C 6 PSC101 PASS",
+        "metadata": {
+            "file_directory": "data",
+            "filename": "ACADEMIC STANDING1.xlsx",
+            "last_modified": "2023-09-18T18:31:28",
+            "page_name": "Sheet1",
+            "page_number": 1,
+            "text_as_html": "<table><tr><td>course code</td><td>course credit</td><td>course grade</td><td>course score</td><td>CGPA</td></tr><tr><td>cse13</td><td>2</td><td>A</td><td>8</td><td/></tr><tr><td>cse14</td><td>3</td><td>B+</td><td>9.9</td><td/></tr><tr><td>geo 217</td><td>2</td><td>C</td><td>4</td><td/></tr><tr><td>lan114</td><td>2</td><td>C</td><td>4</td><td/></tr><tr><td>mat111</td><td>3</td><td>B</td><td>9</td><td/></tr><tr><td>phy211</td><td>3</td><td>A-</td><td>11.1</td><td/></tr><tr><td>CSE15</td><td>3</td><td>D</td><td>3</td><td/></tr><tr><td>CSE315</td><td>3</td><td>B</td><td>9</td><td/></tr><tr><td>LAN112</td><td>2</td><td>B</td><td>6</td><td/></tr><tr><td>LIB116</td><td>2</td><td>B</td><td>6</td><td/></tr><tr><td>MAT112</td><td>3</td><td>D+</td><td>3.9</td><td/></tr><tr><td>MAT131</td><td>3</td><td>C</td><td>6</td><td/></tr><tr><td>PSC101</td><td/><td>PASS</td><td/><td/></tr></table>",
+            "languages": [
+                "fra",
+                "eng"
+            ],
+            "filetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        }
+    },
+    {
+        "type": "Table",
+        "element_id": "d064e6b5fd59aba864f0137cf264a6c9",
+        "text": "GOOD STANDING 2.577",
+        "metadata": {
+            "file_directory": "data",
+            "filename": "ACADEMIC STANDING1.xlsx",
+            "last_modified": "2023-09-18T18:31:28",
+            "page_name": "Sheet1",
+            "page_number": 1,
+            "text_as_html": "<table><tr><td>GOOD STANDING</td><td>2.577</td></tr></table>",
+            "languages": [
+                "eng"
+            ],
+            "filetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        }
+    }
+]
